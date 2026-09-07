@@ -1,0 +1,33 @@
+State,Region,PADD_Number
+Florida,East Coast,1
+New York,East Coast,1
+Pennsylvania,East Coast,1
+Virginia,East Coast,1
+West Virginia,East Coast,1
+Illinois,Midwest,2
+Indiana,Midwest,2
+Kansas,Midwest,2
+Kentucky,Midwest,2
+Michigan,Midwest,2
+Missouri,Midwest,2
+Nebraska,Midwest,2
+North Dakota,Midwest,2
+Ohio,Midwest,2
+Oklahoma,Midwest,2
+South Dakota,Midwest,2
+Tennessee,Midwest,2
+Alabama,Gulf Coast,3
+Arkansas,Gulf Coast,3
+Louisiana,Gulf Coast,3
+Mississippi,Gulf Coast,3
+New Mexico,Gulf Coast,3
+Texas,Gulf Coast,3
+Colorado,Rocky Mountain,4
+Idaho,Rocky Mountain,4
+Montana,Rocky Mountain,4
+Utah,Rocky Mountain,4
+Wyoming,Rocky Mountain,4
+Alaska,West Coast,5
+Arizona,West Coast,5
+California,West Coast,5
+Nevada,West Coast,5
